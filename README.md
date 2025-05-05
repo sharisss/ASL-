@@ -1,1 +1,1 @@
-# ASL-
+# ASL- The ASL Real-Time Detection project enables live recognition of American Sign Language alphabets using a camera. It processes video input to detect hand signs and converts them into corresponding text in real time. The model is trained on a Kaggle dataset containing images of hand signs for each alphabet, ensuring accurate and efficient translation of ASL gestures to text.
