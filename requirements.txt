@@ -1,0 +1,1 @@
+pip install tensorflow keras opencv-python pyaudio numpy gtts flask flask-cors
